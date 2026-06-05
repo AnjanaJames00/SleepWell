@@ -4,7 +4,6 @@
 
 SleepWell AI is an intelligent healthcare assistant that predicts sleep disorder risks using machine learning and explains the prediction using SHAP explainability. The system further enhances trust by retrieving real medical literature from PubMed and EuropePMC and generating evidence-grounded recommendations using the Phi-3 Mini LLM.
 
----
 
 # 🚀 Features
 
