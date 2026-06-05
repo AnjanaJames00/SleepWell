@@ -35,6 +35,7 @@ SleepWell AI addresses this by combining:
 
 The goal is to create a transparent and trustworthy AI healthcare assistant.
 
+---
 
 # 🏗 System Architecture
 
@@ -70,7 +71,7 @@ User Input → Random Forest Prediction → SHAP Explainability → PubMed/Europ
 * Pandas
 * NumPy
 
----
+
 
 # 📂 Dataset
 
@@ -159,7 +160,7 @@ Solution:
 
 * SHAP outputs were injected directly into the LLM prompt as reasoning context.
 
----
+
 
 # 📊 Model Performance
 
@@ -172,7 +173,7 @@ Metrics Evaluated:
 
 The Random Forest model achieved strong classification performance while maintaining interpretability.
 
----
+
 
 # 🖥️ Gradio Interface
 
@@ -183,28 +184,4 @@ The application provides:
 * SHAP feature explanations
 * Evidence-backed recommendations
 * Retrieved research papers
-
----
-
-# 📦 Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/SleepWell-AI.git
-cd SleepWell-AI
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run Application
-
-```bash
-python app.py
-```
-
 
