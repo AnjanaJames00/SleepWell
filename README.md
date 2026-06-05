@@ -35,7 +35,6 @@ SleepWell AI addresses this by combining:
 
 The goal is to create a transparent and trustworthy AI healthcare assistant.
 
----
 
 # 🏗 System Architecture
 
