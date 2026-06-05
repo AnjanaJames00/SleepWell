@@ -40,7 +40,6 @@ The goal is to create a transparent and trustworthy AI healthcare assistant.
 
 User Input → Random Forest Prediction → SHAP Explainability → PubMed/EuropePMC Retrieval → Phi-3 Mini LLM → Personalized Recommendation
 
----
 
 # ⚙️ Tech Stack
 
