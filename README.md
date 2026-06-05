@@ -18,7 +18,6 @@ SleepWell AI is an intelligent healthcare assistant that predicts sleep disorder
 * ✅ Medical-safe response formatting
 * ✅ Evidence-backed sleep hygiene recommendations
 
----
 
 # 🧠 Problem Statement
 
